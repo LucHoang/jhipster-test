@@ -1,0 +1,24 @@
+{
+  "demo1App": {
+    "chinhDemo": {
+      "home": {
+        "title": "Chinh Demos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Chinh Demo",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Chinh Demo",
+        "notFound": "No Chinh Demos found"
+      },
+      "created": "Նոր Chinh Demo ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Chinh Demo թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Chinh Demo հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Chinh Demo {{ id }}?"
+      },
+      "detail": {
+        "title": "Chinh Demo"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

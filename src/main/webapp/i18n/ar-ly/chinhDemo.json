@@ -1,0 +1,24 @@
+{
+  "demo1App": {
+    "chinhDemo": {
+      "home": {
+        "title": "Chinh Demos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Chinh Demo",
+        "createOrEditLabel": "Create or edit a Chinh Demo",
+        "notFound": "No Chinh Demos found"
+      },
+      "created": "A new Chinh Demo is created with identifier {{ param }}",
+      "updated": "A Chinh Demo is updated with identifier {{ param }}",
+      "deleted": "A Chinh Demo is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Chinh Demo {{ id }}?"
+      },
+      "detail": {
+        "title": "Chinh Demo"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}

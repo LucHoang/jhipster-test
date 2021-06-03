@@ -1,0 +1,24 @@
+{
+  "demo1App": {
+    "chinhDemo": {
+      "home": {
+        "title": "Chinh Demos",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Krijo një të ri Chinh Demo",
+        "createOrEditLabel": "Krijo ose përpuno një Chinh Demo",
+        "notFound": "No Chinh Demos found"
+      },
+      "created": "Një Chinh Demo i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Chinh Demo u përpunua me identifikues {{ param }}",
+      "deleted": "Një Chinh Demo u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Chinh Demo {{ id }}?"
+      },
+      "detail": {
+        "title": "Chinh Demo"
+      },
+      "id": "ID",
+      "name": "Name"
+    }
+  }
+}
